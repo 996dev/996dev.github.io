@@ -1,218 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://996dev.github.io/2020/12/29/1-1-Maven%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/2020/12/29/1-4-%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E4%B8%8E%E5%AE%B9%E5%99%A8%E7%AE%A1%E7%90%86/</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/2020/12/29/1-2-SpringBoot%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91/</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/2020/12/29/1-6-%E5%AD%A6%E6%88%90%E5%9C%A8%E7%BA%BF-%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83%E5%8F%8ACMS%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/2020/12/29/1-5-Git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/2020/12/29/1-3-Docker%E5%AE%B9%E5%99%A8%E5%8C%96/</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/2020/12/29/1-7-%E5%AD%A6%E6%88%90%E5%9C%A8%E7%BA%BF-CMS%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/2020/12/29/hello-world/</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/2020/12/29/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%BB%BA-GitHub-%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-hexo/</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/friends/index.html</loc>
-    
-    <lastmod>2020-12-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/about/index.html</loc>
-    
-    <lastmod>2020-12-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/index.html</loc>
-    
-    <lastmod>2020-12-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/categories/index.html</loc>
-    
-    <lastmod>2020-12-27</lastmod>
-    
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://996dev.github.io/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
 
-  
-  <url>
-    <loc>https://996dev.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/hexo/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/GitHub/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/Docker/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/%E5%AE%B9%E5%99%A8%E5%8C%96/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/Maven/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/SpringBoot/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/CI/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/%E5%AD%A6%E6%88%90%E5%9C%A8%E7%BA%BF/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/Git/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
+    <sitemap>
+        <loc>https://996dev.github.io/post-sitemap.xml</loc>
+        <lastmod>2020-12-29T14:30:20.645Z</lastmod>
+    </sitemap>
 
-  
-  <url>
-    <loc>https://996dev.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/categories/hexo-%E5%8D%9A%E5%AE%A2-%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://996dev.github.io/categories/%E9%98%B6%E6%AE%B51-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AF%BE%E7%A8%8B/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-</urlset>
+    <sitemap>
+        <loc>https://996dev.github.io/page-sitemap.xml</loc>
+        <lastmod>2020-12-27T10:02:45.871Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://996dev.github.io/category-sitemap.xml</loc>
+        <lastmod>2020-12-29T14:30:20.645Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://996dev.github.io/tag-sitemap.xml</loc>
+        <lastmod>2020-12-29T14:30:20.645Z</lastmod>
+    </sitemap>
+
+</sitemapindex>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->
