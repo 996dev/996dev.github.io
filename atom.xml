@@ -3,11 +3,11 @@
   <title>黑马中国</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://996dev.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://996dev.github.io/"/>
   <updated>2020-12-29T13:51:08.408Z</updated>
-  <id>http://example.com/</id>
+  <id>https://996dev.github.io/</id>
   
   <author>
     <name>乐小迪</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo-theme-matery-2.0.0 使用</title>
-    <link href="http://example.com/2020/12/29/hello-world/"/>
-    <id>http://example.com/2020/12/29/hello-world/</id>
+    <link href="https://996dev.github.io/2020/12/29/hello-world/"/>
+    <id>https://996dev.github.io/2020/12/29/hello-world/</id>
     <published>2020-12-29T13:24:37.000Z</published>
     <updated>2020-12-29T13:51:08.408Z</updated>
     
@@ -33,21 +33,21 @@
     
     
     
-    <category term="搭建博客" scheme="http://example.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <category term="搭建博客" scheme="https://996dev.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://996dev.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://996dev.github.io/tags/hexo/"/>
     
-    <category term="GitHub" scheme="http://example.com/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://996dev.github.io/tags/GitHub/"/>
     
   </entry>
   
   <entry>
     <title>手把手教你建 GitHub 技术博客-hexo</title>
-    <link href="http://example.com/2020/12/29/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%BB%BA-GitHub-%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-hexo/"/>
-    <id>http://example.com/2020/12/29/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%BB%BA-GitHub-%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-hexo/</id>
+    <link href="https://996dev.github.io/2020/12/29/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%BB%BA-GitHub-%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-hexo/"/>
+    <id>https://996dev.github.io/2020/12/29/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%BB%BA-GitHub-%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-hexo/</id>
     <published>2020-12-29T13:24:37.000Z</published>
     <updated>2020-12-29T13:28:34.930Z</updated>
     
@@ -61,14 +61,14 @@
     
     
     
-    <category term="hexo 博客 搭建" scheme="http://example.com/categories/hexo-%E5%8D%9A%E5%AE%A2-%E6%90%AD%E5%BB%BA/"/>
+    <category term="hexo 博客 搭建" scheme="https://996dev.github.io/categories/hexo-%E5%8D%9A%E5%AE%A2-%E6%90%AD%E5%BB%BA/"/>
     
     
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://996dev.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://996dev.github.io/tags/hexo/"/>
     
-    <category term="GitHub" scheme="http://example.com/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://996dev.github.io/tags/GitHub/"/>
     
   </entry>
   
