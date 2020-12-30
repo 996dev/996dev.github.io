@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://996dev.github.io/2020/12/29/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%BB%BA-GitHub-%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-hexo/</loc>
+    <lastmod>2020-12-30</lastmod>
+  </url>
+  <url>
     <loc>https://996dev.github.io/2020/12/29/1-1-Maven%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2020-12-29</lastmod>
   </url>
@@ -30,10 +34,6 @@
   </url>
   <url>
     <loc>https://996dev.github.io/2020/12/29/hello-world/</loc>
-    <lastmod>2020-12-29</lastmod>
-  </url>
-  <url>
-    <loc>https://996dev.github.io/2020/12/29/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%BB%BA-GitHub-%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-hexo/</loc>
     <lastmod>2020-12-29</lastmod>
   </url>
 </urlset> 
